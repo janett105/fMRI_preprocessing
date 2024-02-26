@@ -1,0 +1,8 @@
+import networkx as nx
+G = nx.read_graphml('C:/Users/JihooPark/conn2res/examples/data/anatomical_mapping/2008/resolution500.graphml')
+
+for node in G.nodes(data=True):
+    # print(node[1]['dn_correspondence_id'])
+    # print(node[1]['dn_region'])
+    # print(node[1]['dn_hemisphere'])
+    print(node[1]['dn_fsname'])
