@@ -1,0 +1,7 @@
+[[{'sub-40015'}, FileNotFoundError("No such file or no access: '/home/jihoo/UCLA_CNP_FC/COBRE/derivatives/sub-40015/func/sub-40015_task-rest_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz'")], 
+[{'sub-40017'}, FileNotFoundError("No such file or no access: '/home/jihoo/UCLA_CNP_FC/COBRE/derivatives/sub-40017/func/sub-40017_task-rest_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz'")], 
+[{'sub-40018'}, FileNotFoundError("No such file or no access: '/home/jihoo/UCLA_CNP_FC/COBRE/derivatives/sub-40018/func/sub-40018_task-rest_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz'")],
+ [{'sub-40021'}, FileNotFoundError("No such file or no access: '/home/jihoo/UCLA_CNP_FC/COBRE/derivatives/sub-40021/func/sub-40021_task-rest_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz'")], 
+[{'sub-40024'}, FileNotFoundError("No such file or no access: '/home/jihoo/UCLA_CNP_FC/COBRE/derivatives/sub-40024/func/sub-40024_task-rest_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz'")], 
+[{'sub-40029'}, FileNotFoundError("No such file or no access: '/home/jihoo/UCLA_CNP_FC/COBRE/derivatives/sub-40029/func/sub-40029_task-rest_space-MNI152NLin2009cAsym_desc-preproc_bold.nii.gz'")], 
+[{'sub-40046'}, ValueError('Shape of passed values is (163, 163), indices imply (162, 162)')]]
